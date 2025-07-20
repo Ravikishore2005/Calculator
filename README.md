@@ -21,9 +21,3 @@ A simple and responsive Calculator built using **HTML**, **CSS**, and **JavaScri
 - **JavaScript** – Functionality and logic
 
 ---
-
-## 🧪 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/calculator.git
